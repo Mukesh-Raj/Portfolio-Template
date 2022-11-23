@@ -2,7 +2,9 @@
 
 This Portfolio is a small project using HTML / CSS. I will be using this to showcase my projects!
 
-[Live Heroku Deployment](https://new-portfolio-mukesh.herokuapp.com/)
+[Live Replit Deployment](https://portfolio-template.mukesh-raj.repl.co/)
+
+
 
 
  <img width="1080" alt="image" src="https://github.com/mukesh-techis/Portfolio_Mukesh/blob/main/img/Screenshot%202022-07-28%20at%2011.54.14%20PM.png">
